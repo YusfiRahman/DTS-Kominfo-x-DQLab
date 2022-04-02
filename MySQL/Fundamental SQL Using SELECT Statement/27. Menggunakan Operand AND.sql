@@ -1,0 +1,1 @@
+SELECT * FROM ms_produk WHERE harga < 50000 AND nama_produk = 'Gantungan Kunci DQLab';
